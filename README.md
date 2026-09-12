@@ -76,3 +76,15 @@ Props are used to pass data from a parent component to a child component. State 
 ### 4. What does the `useEffect` hook do, and why did you need it to load the JSON data?
 
 `useEffect` runs code after a component renders. I used it to load the technology JSON data when the application starts.
+
+### 5. Why does every item in a `.map()` list need a unique `key` prop?
+
+A unique `key` helps React identify each item in a list and update the UI efficiently.
+
+### 6. What is conditional rendering? Show one place you used it.
+
+Conditional rendering means showing different UI based on a condition. I used it to show an empty stack message when no technology is selected.
+
+### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
+
+A parent passes data to a child through props. A child can send something back by calling a function that the parent passes to it as a prop.
