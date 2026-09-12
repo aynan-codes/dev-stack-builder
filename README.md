@@ -68,3 +68,11 @@ JSX is a syntax that allows us to write HTML-like code inside JavaScript. It mak
 ### 2. What is the difference between props and state?
 
 Props are used to pass data from a parent component to a child component. State is used to store and manage data inside a component.
+
+### 3. What does the `useState` hook do, and where did you use it in this project?
+
+`useState` is used to store and update data in a React component. I used it to manage the selected stack, search, and filter values.
+
+### 4. What does the `useEffect` hook do, and why did you need it to load the JSON data?
+
+`useEffect` runs code after a component renders. I used it to load the technology JSON data when the application starts.
