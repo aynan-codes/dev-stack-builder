@@ -53,3 +53,9 @@ A parent passes data to a child through props. A child can send something back b
 - Tailwind CSS
 - Vite
 - JavaScript
+
+## ✨ Features
+
+- 🔍 Search and explore different development technologies
+- 🗂️ Filter technologies by category
+- ➕ Add and remove technologies from the selected stack
