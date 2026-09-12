@@ -55,7 +55,7 @@ function App() {
   });
 
   return (
-    <div className="min-h-screen w-full overflow-x-hidden bg-white">
+    <div className="min-h-screen w-full overflow-x-clip bg-white">
       <Navbar />
 
       <Hero />
