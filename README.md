@@ -59,3 +59,8 @@ A parent passes data to a child through props. A child can send something back b
 - 🔍 Search and explore different development technologies
 - 🗂️ Filter technologies by category
 - ➕ Add and remove technologies from the selected stack
+
+
+### 1. What is JSX, and why is it used in React?
+
+JSX is a syntax that allows us to write HTML-like code inside JavaScript. It makes React components easier to read and write.
